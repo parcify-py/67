@@ -13,7 +13,16 @@
       <None Update="sound\sound.mp3">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
-      <None Update="sound.mp3">
+      <None Update="metalpipe.mp3">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="67.mp3">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="apay.mp3">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="bruh.mp3">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
     </ItemGroup>
